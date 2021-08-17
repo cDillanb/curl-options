@@ -1,0 +1,8 @@
+Curl options are advanced ways to modify requests.
+
+1. -J, use the header-provided filename
+2. -T, Transfer local FILE to destination
+3. -B, Use ASCII/text transfer
+4. -z, transfer based on time condition
+5. -o --output, write to file instead of stdout
+ 
